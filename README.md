@@ -32,7 +32,7 @@ Modules:
 
 ## 🌐 Find Me Online
 - [GitHub](https://github.com/your-github-srushtiH-01)
-- [LinkedIn](https://linkedin.com/in/Srushti honnangi)
+- [LinkedIn](https://linkedin.com/in/srushti-honnangi)
 
 
 [About Me](about.md)
@@ -51,7 +51,6 @@ Modules:
 <dt>University</dt>
 <dd>KLE technological University,Dr. MSS Sheshagiri collage of engineering and technology</dd>
 <dt>Waste Management System</dt>
-<dd>Google</dd>
 </dl>
 
 <br> 
