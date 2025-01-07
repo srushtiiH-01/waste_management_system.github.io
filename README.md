@@ -50,7 +50,7 @@ Modules:
 <dd>Shankar Biradar</dd>
 <dt>University</dt>
 <dd>KLE technological University,Dr. MSS Sheshagiri collage of engineering and technology</dd>
-<dt>Waste Management System</dt>
+<dt>Topic:Waste Management System</dt>
 </dl>
 
 <br> 
